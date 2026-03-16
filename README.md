@@ -72,10 +72,6 @@ Shown when your meditation session is complete.
 - GUI framework: [eframe/egui](https://github.com/emilk/egui)
 - Random number generation: [rand](https://crates.io/crates/rand)
 
-## License
-
-MIT License
-
 ---
 
 # 中文文档
