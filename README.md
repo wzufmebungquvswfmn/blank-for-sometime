@@ -31,7 +31,7 @@ A simple meditation timer application that displays a blank white screen to help
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blank_for_sometime.git
+git clone https://github.com/wzufmebungquvswfmn/blank-for-sometime.git
 cd blank_for_sometime
 
 # Build
@@ -107,7 +107,7 @@ MIT License
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/blank_for_sometime.git
+git clone https://github.com/wzufmebungquvswfmn/blank-for-sometime.git
 cd blank_for_sometime
 
 # 构建
@@ -136,7 +136,3 @@ cargo run
 - 使用 [Rust](https://www.rust-lang.org/) 开发
 - GUI框架: [eframe/egui](https://github.com/emilk/egui)
 - 随机数生成: [rand](https://crates.io/crates/rand)
-
-## 许可证
-
-MIT License
